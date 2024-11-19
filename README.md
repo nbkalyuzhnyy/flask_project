@@ -6,4 +6,3 @@
 
 [Готовый сайт](https://github.com/nbkalyuzhnyy/flask_site/)
 
-![site](https://user-images.githubusercontent.com/85797091/176396130-943941d7-a5de-4828-af88-c5ed2657032f.jpg)
